@@ -1,0 +1,13 @@
+.profile-picture {
+    border-radius: 50%; /* makes the image circular */
+    width: 150px; /* adjust as needed */
+    height: 150px; /* adjust as needed */
+    position: absolute; /* positions the image on top of the banner */
+    top: 50%; /* centers the image vertically */
+    left: 50%; /* centers the image horizontally */
+    transform: translate(-50%, -50%); /* centers the image */
+}
+
+
+
+
